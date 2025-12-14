@@ -1,0 +1,44 @@
+p {
+  text-align: center;
+}
+
+/* h1 {
+  text-align: center;
+  text-decoration: blue double line-through;
+} */
+
+a {
+  text-decoration: none;
+}
+/* 
+  #h1 {
+    font-weight: 100;
+  }
+  #h2 {
+    font-weight: 500;
+  }
+
+  #h3 {
+    font-weight: 800;
+  }
+
+  #h4 {
+    font-weight: 900;
+  } */
+
+#two {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#three {
+  font-size: 25px;
+  line-height: 50px;
+}
+
+#four {
+  font-size: 1px;
+}
+
+#five {
+  text-transform: uppercase;
+}
