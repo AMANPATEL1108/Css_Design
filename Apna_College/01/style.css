@@ -1,0 +1,22 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  color: rgb(255, 0, 0);
+}
+
+button {
+  color: red;
+  background-color: yellow;
+  border-radius: 10px;
+}
+
+div {
+  background-color: green;
+  width: 20%;
+}
+
+span {
+  background-color: pink;
+}
