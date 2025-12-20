@@ -1,0 +1,29 @@
+/* div {
+  height: 50px;
+  background-color: red;
+  width: 100px;
+  border-width: 50px;
+  border-style: solid;
+  border-color: black;
+  text-align: right;
+  border-radius: 20px;
+}
+
+h1 {
+  height: 50px;
+  background-color: aqua;
+  width: 500px;
+  border-width: 10pz;
+  border-style: dotted;
+  border-color: black;
+  text-align: center;
+} */
+
+#circle {
+  border: 1px solid black;
+  height: 100px;
+  background-color: pink;
+  width: 100px;
+  padding-left: 50px;
+  margin-top: 50px;
+}

@@ -1,0 +1,26 @@
+/* div {
+  background-color: pink;
+  display: inline;
+}
+
+button {
+  display: block;
+} */
+
+div {
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+  pad: 25px;
+  display: inline;
+}
+/* 
+in this inline that can not apply a padding amrgine 
+user for that use with inline use a inline block  
+none for not showignn that element in html code
+use visiblity use in that use space but not showing 
+*/
+
+.box {
+  background-color: rgba(255, 0, 1);
+}
